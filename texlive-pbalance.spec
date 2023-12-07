@@ -1,6 +1,6 @@
 Name:		texlive-pbalance
-Version:	64002
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Balance last page in two-column mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pbalance
